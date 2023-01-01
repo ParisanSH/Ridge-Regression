@@ -21,6 +21,9 @@ The UCI Machine Learning Repository is a collection of databases, domain theorie
 One of the regression datasets of the UCI repository, the real estate dataset, is chosen and split into 70% training, 10% validation, and 20% test data.
 
 # Steps:
+
 •	Finding optimal 𝜆.
+
 •	Calculating MSE of Ridge regression for training, validation and test data using founded 𝜆 and L2-norm of its w.
+
 •	Calculating MSE of Linear regression for training, validation and test data and l2-norm of its w.
